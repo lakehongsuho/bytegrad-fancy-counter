@@ -1,5 +1,8 @@
 # fancy counter
 
+![image](https://github.com/user-attachments/assets/d115a155-de38-416c-81f3-b3a40f522ed6)
+
+
 > 팬시카운터는 바닐라 자바스크립트, 리액트로 만든 간단한 앱이다. 마우스를 클릭해서 카운터의 숫자를 증가시키거나 감소시킬 수 있다. 키보드 스페이바를 이용해서 컨트롤도 가능하다.
 
 **설치**
